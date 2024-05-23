@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MailP1
-- 👀 I’m interested in software development/cyber security
-- 🌱 I’m currently learning CS50's Introduction to Artificial Intelligence with Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data
 - 📫 How to reach me ...
 
 <!---
